@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">basic Android</string>
     <string name="click_here">Click Here</string>
+    <string name="tes_page">Tes page: </string>
+    <string name="say_hello_text">Hello %1$s</string>
+    <string-array name="string_array">
+        <item>Mo</item>
+        <item>Mamba</item>
+    </string-array>
 </resources>
